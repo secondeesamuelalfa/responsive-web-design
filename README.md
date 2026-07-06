@@ -1,6 +1,10 @@
-# Responsive Web Design Projects
+# 🌐 Responsive Web Design Projects
 
-This repository contains my projects completed while earning the **freeCodeCamp Legacy Responsive Web Design V8 Certification**.
+Welcome to my **Responsive Web Design** repository!
+
+This repository contains the projects I built while earning the **freeCodeCamp Legacy Responsive Web Design V8 Certification**.
+
+---
 
 ## 📖 About
 
@@ -14,29 +18,47 @@ These projects demonstrate my understanding of:
 - Accessibility
 - Forms and Layouts
 
+---
+
 ## 📂 Projects
 
 - ✅ Survey Form
 - ✅ Tribute Page
-- ⏳ Technical Documentation Page
-- ⏳ Product Landing Page
-- ⏳ Personal Portfolio Webpage
+- ⏳ Technical Documentation Page *(Coming Soon)*
+- ⏳ Product Landing Page *(Coming Soon)*
+- ⏳ Personal Portfolio Webpage *(Coming Soon)*
 
-*(The remaining projects will be added as I continue building this repository.)*
+> The remaining projects will be added as I continue building this repository.
+
+---
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
+---
+
 ## 🎯 Goal
 
-The purpose of this repository is to document my learning journey and showcase the projects I built while completing the freeCodeCamp Responsive Web Design certification.
-
-## 🏆 Certification
-
-I earned the **freeCodeCamp Legacy Responsive Web Design V8 Certification** on **July 6, 2026** with a score of **98%**.
+The purpose of this repository is to document my learning journey and showcase the projects I built while completing the **freeCodeCamp Legacy Responsive Web Design Certification**.
 
 ---
 
-⭐ If you're viewing this repository, thank you for checking out my work!
+## 🏆 Certification
+
+- **Certification:** freeCodeCamp Legacy Responsive Web Design V8
+- **Date Earned:** July 6, 2026
+- **Exam Score:** **98%**
+
+---
+
+## 👨‍💻 Author
+
+**Secondee Samuel Alfa**
+
+- GitHub: https://github.com/secondeesamuelalfa
+
+---
+
+⭐ **Thank you for visiting my repository!**
