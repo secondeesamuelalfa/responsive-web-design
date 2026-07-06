@@ -1,27 +1,42 @@
-# Hi there 👋
+# Responsive Web Design Projects
 
-I'm **Secondee Samuel Alfa**.
+This repository contains my projects completed while earning the **freeCodeCamp Legacy Responsive Web Design V8 Certification**.
 
-🎓 Software Engineering Student at AUN
+## 📖 About
 
-🏆 freeCodeCamp Legacy Responsive Web Design V8 Certified (98%)
+These projects demonstrate my understanding of:
 
-🌱 Currently Learning
-- Python
-- JavaScript
-- Git & GitHub
-
-💻 Skills
 - HTML5
 - CSS3
-- Responsive Web Design
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Accessibility
+- Forms and Layouts
 
-🎯 Goals for 2026
-- Complete JavaScript Algorithms & Data Structures
-- Learn React
-- Build Full-Stack Projects
-- Secure a Software Engineering Internship
+## 📂 Projects
 
-📫 Connect with me
+- ✅ Survey Form
+- ✅ Tribute Page
+- ⏳ Technical Documentation Page
+- ⏳ Product Landing Page
+- ⏳ Personal Portfolio Webpage
 
-- GitHub: https://github.com/secondeesamuelalfa
+*(The remaining projects will be added as I continue building this repository.)*
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+## 🎯 Goal
+
+The purpose of this repository is to document my learning journey and showcase the projects I built while completing the freeCodeCamp Responsive Web Design certification.
+
+## 🏆 Certification
+
+I earned the **freeCodeCamp Legacy Responsive Web Design V8 Certification** on **July 6, 2026** with a score of **98%**.
+
+---
+
+⭐ If you're viewing this repository, thank you for checking out my work!
