@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    transition: 0.4s;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+button {
+    padding: 12px 20px;
+    border: none;
+    background: royalblue;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+
+    transition: 0.3s;
+}
+
+button:hover {
+    background: dodgerblue;
+}
+
+/* Dark Mode */
+
+.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark button {
+    background: orange;
+    color: black;
+}
